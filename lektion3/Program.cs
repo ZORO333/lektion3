@@ -1,13 +1,9 @@
-﻿
-class Program
-{
- static void Main()
-    {
-        Console.WriteLine("Program begin");
+﻿class Program
+{      
  
+ static void loop(int nr){
         int sum = 0;
-       
-        for (int i = 0; i < 4; i++)
+        for (int i = 0; i < nr; i++)
         {
                 Console.WriteLine($"i = {i}");
                 sum = sum + i;
@@ -17,6 +13,15 @@ class Program
                 }
                
         }
+ }
+ static void Main()
+    {
+        Console.WriteLine("Program begin");
+        loop(11);
         Console.WriteLine("Program ends");
     }
 }
+
+
+
+

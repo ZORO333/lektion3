@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Syncentralen\\Desktop\\My fils\\lektion3\\lektion3\\lektion3.csproj": {}
+    "c:\\Users\\Syncentralen\\Desktop\\My fils\\lektion3\\lektion3\\lektion3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Syncentralen\\Desktop\\My fils\\lektion3\\lektion3\\lektion3.csproj": {
+    "c:\\Users\\Syncentralen\\Desktop\\My fils\\lektion3\\lektion3\\lektion3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Syncentralen\\Desktop\\My fils\\lektion3\\lektion3\\lektion3.csproj",
+        "projectUniqueName": "c:\\Users\\Syncentralen\\Desktop\\My fils\\lektion3\\lektion3\\lektion3.csproj",
         "projectName": "lektion3",
-        "projectPath": "C:\\Users\\Syncentralen\\Desktop\\My fils\\lektion3\\lektion3\\lektion3.csproj",
+        "projectPath": "c:\\Users\\Syncentralen\\Desktop\\My fils\\lektion3\\lektion3\\lektion3.csproj",
         "packagesPath": "C:\\Users\\Syncentralen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Syncentralen\\Desktop\\My fils\\lektion3\\lektion3\\obj\\",
+        "outputPath": "c:\\Users\\Syncentralen\\Desktop\\My fils\\lektion3\\lektion3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Syncentralen\\AppData\\Roaming\\NuGet\\NuGet.Config"
